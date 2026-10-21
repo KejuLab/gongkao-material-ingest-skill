@@ -1,3 +1,6 @@
+# AUTHOR-ONLY sync helper (NOT the public installer).
+# Public install: see README section "安装", or run install.py (works on Windows/macOS/Linux).
+#
 # Install / sync: copy this skill into <knowledge-base>/.agents/skills/
 # Usage:
 #   .\install.ps1                     # default target: ..\..\.agents\skills\gongkao-material-ingest
